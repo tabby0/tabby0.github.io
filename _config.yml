@@ -100,3 +100,7 @@ aux_links:
   "My github":
     - "https://www.github.com/tabby0"
 aux_links_new_tab: true
+
+
+ga_tracking: G-4CTSH16LYS
+ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
