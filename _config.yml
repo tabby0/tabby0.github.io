@@ -1,8 +1,102 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
-theme: just-the-docs
+logo: "/assets/images/zero_nap_bricks.png"
+favicon_ico: "/assets/images/zero_nap_logo.ico"
+title: ZeroNap
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 
-url: https://just-the-docs.github.io
+
+theme: just-the-docs
+github_username:  tabby0
+url: https://tabby0.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+collections:
+  reverse_intro:
+    output: true
+  binary_exploitation:
+    output: true
+  binary_malware:
+    output: true
+  other_re_stuffs:
+    output: true
+  forensics_tools:
+    output: true
+  networks:
+    output: true
+  cryptography:
+    output: true
+  web_exploitation:
+    output: true
+  CTFs:
+    output: true
+  my_tools:
+    output: true
+
+just_the_docs:
+  collections:
+    reverse_intro:
+      name: Reverse engineering introduction
+      search_exclude: true
+      nav_fold: true
+    binary_exploitation:
+      name: Binary exploitation
+      search_exclude: true
+      nav_fold: true
+    binary_malware:
+      name: Maware Analysis
+      search_exclude: true
+      nav_fold: true
+    other_re_stuffs:
+      name: Other RE stuff
+      search_exclude: true
+      nav_fold: true
+    forensics_tools:
+      name: Forensics Tools
+      search_exclude: true
+      nav_fold: true
+    networks:
+      name: Networks
+      search_exclude: true
+      nav_fold: true
+    cryptography:
+      name: Cryptography
+      search_exclude: true
+      nav_fold: true
+    web_exploitation:
+      name: Web Exploitation
+      search_exclude: true
+      nav_fold: true
+    CTFs:
+      name: CTFs / Writes-up
+      search_exclude: true
+      nav_fold: true
+    my_tools:
+      name: My Tools
+      search_exclude: true
+      nav_fold: true
+
+color_scheme: dark
+
+callouts:
+  warning:
+    title: Warning
+    color: red
+  note:
+    title: Note
+    color: purple
+  information:
+    title: Information
+    color: blue
+  success:
+    title: Success
+    color: green
+  
+aux_links: 
+  "My github":
+    - "https://www.github.com/tabby0"
+aux_links_new_tab: true
