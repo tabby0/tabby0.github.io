@@ -8,7 +8,7 @@ I'm **@Targazh**, i a cybersecurity enthusiast since 2019. I'm as senior SOC ana
 
 If you are new to cybersecurity read below. I want to teach you the "Dunning Kruger Effect" 😊.
 
-![Alt Text](/assets/images/about/dunning_krugger.png)
+![Alt Text](/attachements/dunning_krugger.png)
 
 This representation is widely used on the internet. But don't take it too seriously. Just enjoy every little step you make. Unlike the emoji in this graph, skills and knowledge are absolutely not related to age. Some people may get stuck in the valley of despair or at the peak of confidence in the beginning of the chart. They might be the most difficult people to work with 😊.
 
