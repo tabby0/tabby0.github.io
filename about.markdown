@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm **@Targazh**, i a cybersecurity enthusiast since 2019. I'm as senior SOC analyst and malware reverse engineer.
+I'm **@Targazh**, i am cybersecurity enthusiast since 2019. I am a senior SOC analyst and malware reverse engineer.
 
 If you are new to cybersecurity read below. I want to teach you the "Dunning Kruger Effect" 😊.
 
