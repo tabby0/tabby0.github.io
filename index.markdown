@@ -25,7 +25,7 @@ Hey, by the way, i'm not a native english speaker. But you will discover that pr
 
 ___
 
-__If you are new to cybersecurity read below. I want to teach you the "Dunning Kruger Effect"__ 😊.
+<ins>If you are __new to cybersecurity__ read below. I would like to talk to you about the "Dunning Kruger Effect"<ins> 😊.
 
 ![Alt Text](/attachements/dunning_krugger.png)
 
