@@ -6,6 +6,8 @@ categories: reverse
 author: "Targazh"
 nav_order: 2
 ---
-<span class="fs-8">
-[Link button](https://just-the-docs.com){: .btn }
-</span>
+
+{: .information}
+>Work in progress
+
+![Alt Text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3g4YmU2dzY4dnM4N2lwaWJtcjJqYXc1czRvdnd2cWl2Y2l4cjlxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif)

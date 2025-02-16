@@ -12,8 +12,6 @@ theme: just-the-docs
 github_username:  tabby0
 url: https://tabby0.github.io
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
 collections:
   reverse_intro:
@@ -96,10 +94,11 @@ callouts:
     title: Success
     color: green
   
-aux_links: 
-  "My github":
-    - "https://www.github.com/tabby0"
-aux_links_new_tab: true
+# Add this link later
+#aux_links: 
+#  "My github":
+#    - "https://www.github.com/tabby0"
+#aux_links_new_tab: true
 
 
 ga_tracking: G-4CTSH16LYS
