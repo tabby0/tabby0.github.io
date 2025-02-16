@@ -4,7 +4,8 @@
 
 layout: home
 ---
-
+{: .text-center}
+![Alt Text](/attachements/banner.png)
 
 {: .information}
 > Hi, welcome to my documentation website. I just want to share a bit of knowledge about cybersecurity. This website does not aim to be perfect nor without any mistakes. But if any of what I wrote can be useful for someone, I will be very happy for that! 
@@ -27,7 +28,11 @@ ___
 
 <ins>If you are __new to cybersecurity__ read below. I would like to talk to you about the "Dunning Kruger Effect"<ins> 😊.
 
-![Alt Text](/attachements/dunning_krugger.png)
+
+![Image](/attachements/dunning_kruger_effect.png)
+
+{: .text-center}
+<a style="font-size: 8px;" href="https://www.freepik.com/free-vector/pets-growth-stages-set-isolated-icons-cartoon-characters-cat-dog-different-age-vector-illustration_26763266.htm#fromView=search&page=1&position=36&uuid=4e4705c1-3908-472c-8fa3-9e5ee4a466e8&query=cat+stages">Cats are designed by macrovector on Freepik</a>
 
 This representation is widely used on the internet. But don't take it too seriously. Just enjoy every little step you make. Unlike the emoji in this graph, skills and knowledge are absolutely not related to age. Some people may get stuck in the valley of despair or at the peak of confidence in the beginning of the chart.
 

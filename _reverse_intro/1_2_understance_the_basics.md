@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Work in progress"
+title:  "Understand the basics"
 date:   2025-02-14 16:42:12 +0100
 categories: reverse
 parent: Introduction au reverse engineering
