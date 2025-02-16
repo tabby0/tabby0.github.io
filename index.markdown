@@ -57,3 +57,20 @@ Keep going, It will be a long journey but what a great journey !
 
 
 @Targazh
+
+
+<script src="https://giscus.app/client.js"
+        data-repo="tabby0/website_comments"
+        data-repo-id="R_kgDON6g6Ng"
+        data-category="General"
+        data-category-id="DIC_kwDON6g6Ns4CnBRk"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="dark"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
